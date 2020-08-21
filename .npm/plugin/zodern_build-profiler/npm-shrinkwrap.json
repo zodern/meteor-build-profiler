@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "dependencies": {
+    "nan": {
+      "version": "https://registry.npmjs.org/nan/-/nan-2.14.1.tgz",
+      "integrity": "sha512-isWHgVjnFjh2x2yuJ/tj3JbwoHu3UC2dX5G/88Cm24yB6YopVgxvBObDY7n5xW6ExmFhJpSEQqFPvq9zaXc8Jw=="
+    },
+    "v8-profiler-next": {
+      "version": "https://registry.npmjs.org/v8-profiler-next/-/v8-profiler-next-1.2.0.tgz",
+      "integrity": "sha512-AUBg4hIcspQiQg20DuJwifgeLVJC9xzc7NHHO69TeBN4LETGE8/qxH+spIeK6sJC5briUpjE60eVQhbGaIawlg=="
+    }
+  }
+}
