@@ -9,7 +9,7 @@ Compatible with Meteor 1.4 and newer. This package is based on [qualia:profile](
 ## Installation
 
 ```sh
-meteor add zodern:build-profile
+meteor add zodern:build-profiler
 ```
 
 ## Usage
