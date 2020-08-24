@@ -2,7 +2,7 @@ Package.describe({
   name: 'zodern:build-profiler',
   version: '1.0.0',
   summary: 'Profile the Meteor build process',
-  git: 'http://github.com/qualialabs/profile',
+  git: 'https://github.com/zodern/meteor-build-profiler.git',
   documentation: 'README.md'
 });
 
