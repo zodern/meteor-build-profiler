@@ -1,6 +1,6 @@
 Package.describe({
   name: 'zodern:build-profiler',
-  version: '1.0.0',
+  version: '1.1.0',
   summary: 'Profile the Meteor build process',
   git: 'https://github.com/zodern/meteor-build-profiler.git',
   documentation: 'README.md'
