@@ -13,7 +13,7 @@ Package.registerBuildPlugin({
     'plugin.js',
   ],
   npmDependencies: {
-    'v8-profiler-next': "1.2.0",
+    'v8-profiler-next': "1.4.2",
   }
 });
 
